@@ -1,4 +1,4 @@
-public class hopital{
+public class Hopital{
     String name;
 
     public Hopital(){
