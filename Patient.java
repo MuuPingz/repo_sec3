@@ -1,0 +1,3 @@
+public Patient{
+    String name;
+}
